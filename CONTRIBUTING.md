@@ -1,17 +1,18 @@
-# Guía de Contribución
-Gracias por tu interés en contribuir a los proyectos de Transarr.
-## ¿Cómo contribuir?
+# Contributing Guide
+Thank you for your interest in contributing to Transarr projects.
 
-1. Haz un fork del repositorio.
-2. Crea una rama descriptiva (`feature/nombre`, `fix/bug`, etc).
-3. Realiza tus cambios y asegúrate de que pasan los tests.
-4. Abre un Pull Request con una descripción clara.
-5. Espera revisión y feedback.
+## How to contribute
 
-## Buenas prácticas
-- Sigue la guía de estilo del proyecto.
-- Escribe mensajes de commit claros.
-- Añade tests si aplica.
-- Actualiza la documentación si es necesario.
+1. Fork the repository.
+2. Create a descriptive branch (`feature/name`, `fix/bug`, etc).
+3. Make your changes and ensure tests pass.
+4. Open a Pull Request with a clear description.
+5. Wait for review and feedback.
 
-¡Toda contribución es bienvenida!
+## Best practices
+- Follow the project's style guide.
+- Write clear commit messages.
+- Add tests when applicable.
+- Update documentation when necessary.
+
+All contributions are welcome!

@@ -1,7 +1,8 @@
-# Política de Seguridad
-Si encuentras una vulnerabilidad de seguridad, por favor repórtala de forma responsable:
-1. No la divulgues públicamente.
-2. Envíanos un correo a security@transarr.org o abre un issue marcado como `security`.
-3. Te responderemos lo antes posible y trabajaremos juntos para resolver el problema.
+# Security Policy
+If you find a security vulnerability, please report it responsibly:
 
-¡Gracias por ayudar a mantener la seguridad de la comunidad!
+1. Do not disclose it publicly.
+2. Email security@transarr.org or open an issue labeled `security`.
+3. We will respond promptly and work to resolve the issue.
+
+Thank you for helping keep the community secure.

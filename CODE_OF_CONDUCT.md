@@ -1,7 +1,8 @@
-# Código de Conducta
-Como miembros de la comunidad Transarr, nos comprometemos a mantener un ambiente inclusivo, respetuoso y colaborativo.
-- Sé amable y profesional.
-- No se tolera acoso ni discriminación.
-- Reporta cualquier comportamiento inapropiado a los administradores.
+# Code of Conduct
+As members of the Transarr community, we commit to maintaining an inclusive, respectful, and collaborative environment.
 
-Juntos construimos una comunidad mejor.
+- Be kind and professional.
+- Harassment and discrimination will not be tolerated.
+- Report inappropriate behavior to the maintainers.
+
+We build a better community together.
