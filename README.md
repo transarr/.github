@@ -1,42 +1,45 @@
-# Documentación de la Organización Transarr
+# Transarr Organization Documentation
 
-Este repositorio contiene la documentación centralizada para la organización Transarr.
+This repository contains the centralized documentation for the Transarr organization.
 
+## Contributing Guide
+Thank you for your interest in contributing to Transarr projects.
 
-## Guía de Contribución
-Gracias por tu interés en contribuir a los proyectos de Transarr.
+### How to contribute
+1. Fork the repository.
+2. Create a descriptive branch (`feature/name`, `fix/bug`, etc).
+3. Make your changes and ensure tests pass.
+4. Open a Pull Request with a clear description.
+5. Wait for review and feedback.
 
-### ¿Cómo contribuir?
-1. Haz un fork del repositorio.
-2. Crea una rama descriptiva (`feature/nombre`, `fix/bug`, etc).
-3. Realiza tus cambios y asegúrate de que pasan los tests.
-4. Abre un Pull Request con una descripción clara.
-5. Espera revisión y feedback.
-
-**Buenas prácticas:**
-- Sigue la guía de estilo del proyecto.
-- Escribe mensajes de commit claros.
-- Añade tests si aplica.
-- Actualiza la documentación si es necesario.
-
----
-
-## Código de Conducta
-Como miembros de la comunidad Transarr, nos comprometemos a mantener un ambiente inclusivo, respetuoso y colaborativo.
-
-- Sé amable y profesional.
-- No se tolera acoso ni discriminación.
-- Reporta cualquier comportamiento inapropiado a los administradores.
-
-Juntos construimos una comunidad mejor.
+**Best practices:**
+- Follow the project's style guide.
+- Write clear commit messages.
+- Add tests where applicable.
+- Update the documentation when needed.
 
 ---
 
-## Política de Seguridad
-Si encuentras una vulnerabilidad de seguridad, por favor repórtala de forma responsable:
+## Code of Conduct
+As members of the Transarr community, we commit to maintaining an inclusive, respectful, and collaborative environment.
 
-1. No la divulgues públicamente.
-2. Envíanos un correo a security@transarr.org o abre un issue marcado como `security`.
-3. Te responderemos lo antes posible y trabajaremos juntos para resolver el problema.
+- Be kind and professional.
+- Harassment and discrimination will not be tolerated.
+- Report inappropriate behavior to the maintainers.
 
-¡Gracias por ayudar a mantener la seguridad de la comunidad!
+We build a better community together.
+
+---
+
+## Security Policy
+If you find a security vulnerability, please report it responsibly:
+
+1. Do not disclose it publicly.
+2. Email security@transarr.org or open an issue labeled `security`.
+3. We will respond promptly and work to resolve the issue.
+
+Thank you for helping keep the community secure.
+
+---
+
+License: MIT. See the `LICENSE` file at the project root for details.
