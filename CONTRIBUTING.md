@@ -1,6 +1,5 @@
 # Guía de Contribución
 Gracias por tu interés en contribuir a los proyectos de Transarr.
-
 ## ¿Cómo contribuir?
 
 1. Haz un fork del repositorio.

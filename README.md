@@ -2,20 +2,41 @@
 
 Este repositorio contiene la documentación centralizada para la organización Transarr.
 
-## Estructura sugerida
 
-- `README.md`: Introducción y guía general
-- `CONTRIBUTING.md`: Guía para contribuir a los proyectos
-- `CODE_OF_CONDUCT.md`: Código de conducta para la comunidad
-- `SECURITY.md`: Políticas de seguridad y reporte de vulnerabilidades
-- `ISSUE_TEMPLATE/`: Plantillas para issues
-- `PULL_REQUEST_TEMPLATE/`: Plantillas para pull requests
-- `WORKFLOWS/`: Automatizaciones de GitHub Actions
+## Guía de Contribución
+Gracias por tu interés en contribuir a los proyectos de Transarr.
 
-## Uso
+### ¿Cómo contribuir?
+1. Haz un fork del repositorio.
+2. Crea una rama descriptiva (`feature/nombre`, `fix/bug`, etc).
+3. Realiza tus cambios y asegúrate de que pasan los tests.
+4. Abre un Pull Request con una descripción clara.
+5. Espera revisión y feedback.
 
-Coloca aquí toda la documentación y plantillas que deban ser compartidas por todos los repos de la organización.
+**Buenas prácticas:**
+- Sigue la guía de estilo del proyecto.
+- Escribe mensajes de commit claros.
+- Añade tests si aplica.
+- Actualiza la documentación si es necesario.
 
 ---
 
-¿Necesitas ayuda para crear algún archivo específico? Pídelo y lo generamos.
+## Código de Conducta
+Como miembros de la comunidad Transarr, nos comprometemos a mantener un ambiente inclusivo, respetuoso y colaborativo.
+
+- Sé amable y profesional.
+- No se tolera acoso ni discriminación.
+- Reporta cualquier comportamiento inapropiado a los administradores.
+
+Juntos construimos una comunidad mejor.
+
+---
+
+## Política de Seguridad
+Si encuentras una vulnerabilidad de seguridad, por favor repórtala de forma responsable:
+
+1. No la divulgues públicamente.
+2. Envíanos un correo a security@transarr.org o abre un issue marcado como `security`.
+3. Te responderemos lo antes posible y trabajaremos juntos para resolver el problema.
+
+¡Gracias por ayudar a mantener la seguridad de la comunidad!
